@@ -1,0 +1,10 @@
+{
+  "name": "NonlethalCompany",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "Various personal cheats and commands through in-game chat",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "MegaPiggy-EnumUtils-1.0.2"
+  ]
+}
